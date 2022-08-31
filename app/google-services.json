@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362010878779",
+    "firebase_url": "https://the-tour-243a1-default-rtdb.firebaseio.com",
+    "project_id": "the-tour-243a1",
+    "storage_bucket": "the-tour-243a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362010878779:android:8cb804d1b5ef78cd210d1e",
+        "android_client_info": {
+          "package_name": "com.example.thetour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362010878779-99cg5trr9955028hocck24rr4r82quaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thetour",
+            "certificate_hash": "6bf810eadd2fb7bf80c9043318e852b6bc2fa9b6"
+          }
+        },
+        {
+          "client_id": "362010878779-alleigjhktd9jcq12brpvc49j9176fno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYIRerckjOcPsmYYQkX7tTtpkIfwHF2lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362010878779-alleigjhktd9jcq12brpvc49j9176fno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

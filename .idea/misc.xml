@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/drawable/header_bg.xml" value="0.207" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_about.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_contact.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_dash_b.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_feedback.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_login_page.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_mombasa.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_read_data.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_subfeed.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_the_login.xml" value="0.21" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_tour.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_tour2.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_travel.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/bali.xml" value="0.1984375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/dash_bd.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/dubai.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/egypt.xml" value="0.1984375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/ghana.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/mombasa.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/paris.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/rwanda.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/sign_up.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/temp.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/zambia.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
